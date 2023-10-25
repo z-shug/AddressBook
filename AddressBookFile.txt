@@ -1,0 +1,4 @@
+Martinez::Amanda::456 Street::Seattle::WA::98101
+Nolle::Suzzy::345 Main st.::Portland::OR::87454
+Rupert::Tom::345 Maine St.::Portland::OR::98174
+Shugart::Zoe::123 Street::Seattle::WA::98102
